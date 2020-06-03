@@ -12,4 +12,11 @@ public class Test01 {
         System.out.println("111111111");
         System.out.println("111111111");
     }
+
+    /**
+     * zs的方法
+     */
+    public void zs(){
+
+    }
 }
